@@ -32,6 +32,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+<img src='https://github.com/yfdo/Twitter-Client/blob/main/demo-part1.gif?raw=true' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 **Note: I didn't follow many accounts and was recording this late at night, so no new tweets appeared after refreshing. However, the relative time was updated with refreshing.**
 
