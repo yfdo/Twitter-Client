@@ -76,7 +76,7 @@ class ComposeActivity : AppCompatActivity() {
                     Toast.LENGTH_SHORT
                 ).show()
             } else {
-                Toast.makeText(this, tweetContent, Toast.LENGTH_SHORT).show()
+                //Toast.makeText(this, tweetContent, Toast.LENGTH_SHORT).show()
 
                 //make api call to publish tweet
                 client.publishTweet(tweetContent, object : JsonHttpResponseHandler() {
